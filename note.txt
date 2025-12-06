@@ -1,0 +1,2 @@
+to run graphical user interface run that command :
+python -m streamlit run app.py
